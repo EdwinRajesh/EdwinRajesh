@@ -14,7 +14,7 @@
 
 <p align="left">
 ✨ Creating bugs since 2019<br>
-📚 I'm currently diving deeper into advanced TypeScript patterns, React Native performance optimization, and scalable backend design with NestJS and PostgreSQL.<br>
+📚 I'm currently diving deeper into advanced TypeScript patterns, React Native performance optimization, and scalable backend design with NextJS and PostgreSQL.<br>
 🎯 Goals: Build production-grade apps with clean architecture, contribute to open-source developer tools, and master system design for high-load mobile and web environments.<br>
 
 </p>
